@@ -37,4 +37,4 @@ Power BI – Data visualization and dashboard creation
 Microsoft Excel – Data cleaning and pre-processing
 
 Power BI Dashboard:
-![![Screenshot 2025-03-15 234814](https://github.com/user-attachments/assets/b15d3c9e-10a4-45f8-86d2-a45291b535b2)
+![Screenshot 2025-03-15 234814](https://github.com/user-attachments/assets/b15d3c9e-10a4-45f8-86d2-a45291b535b2)
