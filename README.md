@@ -35,3 +35,6 @@ Map Visualization – Geographical revenue distribution
 Power BI – Data visualization and dashboard creation
 
 Microsoft Excel – Data cleaning and pre-processing
+
+Power BI Dashboard:
+![Screenshot 2025-02-26 160431](https://github.com/user-attachments/assets/aada4436-c3d2-48a5-9ef6-c749d7e38c64)
